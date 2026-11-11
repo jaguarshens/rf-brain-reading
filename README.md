@@ -14,7 +14,7 @@ For example, you can feed a person's EEG data into an EEG-trained AI model -basi
 
 Very simple actually.
 
-So basically, anyone can spy on people through their phone getting their most private thoughts with a simple software on their phone. If you do not want an AI to know about your most private thoughts you can degoogle your phone.. 
+So basically, anyone can spy on people through their phone getting their most private thoughts with a simple software on their phone. AND YOU CANT REMOVE ANY OF THIS!
 
 
 If you tinker with some limesdr or whatever sdr tools you can figure it out
