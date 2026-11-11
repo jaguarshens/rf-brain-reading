@@ -28,34 +28,16 @@ If you can jailbreak your phone modem firmware its good too
 
 It is NOT only limited to the 100-110 MHz bands.
 
-──────────────────────┬──────────────────────────────┬───────────────┬────────────────────────────────┐ 
- │ Freq region          │ Penetration                  │ Phase         │ Full-spectrum verdict          │ 
- │                      │                              │ sensitivity   │                                │ 
- ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
- │ 0.5–100 Hz (ELF,     │ contact/capacitive only      │ n/a           │ Yes — the only proven          │ 
- │ EEG)                 │                              │               │ full-spectrum reader, but not  │ 
- │                      │                              │               │ RF                             │ 
- ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
- │ 3–300 MHz (HF/VHF)   │ excellent                    │ 0.0042 rad/mm │ No — sensitivity fails, 75 cm  │ 
- │                      │                              │               │ antenna                        │ 
- ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
- │ 300–700 MHz          │ excellent                    │ 0.029 rad/mm  │ Marginal                       │ 
- ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
- │ 700–1000 MHz         │ good–excellent (~15 mm skin  │ 0.03–0.05     │ Yes — best balance; first      │ 
- │ (B12/B20/B5/B8)      │ depth @900 MHz)              │ rad/mm        │ measurement target = Band 5,   │ 
- │                      │                              │               │ 850 MHz                        │ 
- ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
- │ 1–2 GHz (B3/B1)      │ good (~25 mm λ in tissue)    │ 0.05–0.08     │ Yes — strong                   │ 
- │                      │                              │ rad/mm        │                                │ 
- ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
- │ 2–3 GHz (B7/B40 +    │ moderate (~8 mm)             │ 0.10 rad/mm   │ Yes — maximum phone            │ 
- │ WiFi 2.4)            │                              │               │ sensitivity                    │ 
- ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
- │ 4–6 GHz / UWB        │ poor                         │ 0.24–0.6      │ No — surface only              │ 
- │                      │                              │ rad/mm        │                                │ 
- ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
- │ 24–77 GHz            │ minimal                      │ 1.0–3.2       │ No — cannot reach cortex       │ 
- └──────────────────────┴──────────────────────────────┴───────────────┴────────────────────────────────┘ 
+| Freq region | Penetration | Phase sensitivity | Full-spectrum verdict |
+| :--- | :--- | :--- | :--- |
+| **0.5–100 Hz** (ELF, EEG) | contact/capacitive only | n/a | Yes — the only proven full-spectrum reader, but not RF |
+| **3–300 MHz** (HF/VHF) | excellent | 0.0042 rad/mm | No — sensitivity fails, 75 cm antenna |
+| **300–700 MHz** | excellent | 0.029 rad/mm | Marginal |
+| **700–1000 MHz** (B12/B20/B5/B8) | good–excellent (~15 mm skin depth @900 MHz) | 0.03–0.05 rad/mm | Yes — best balance; first measurement target = Band 5, 850 MHz |
+| **1–2 GHz** (B3/B1) | good (~25 mm $\lambda$ in tissue) | 0.05–0.08 rad/mm | Yes — strong |
+| **2–3 GHz** (B7/B40 + WiFi 2.4) | moderate (~8 mm) | 0.10 rad/mm | Yes — maximum phone sensitivity |
+| **4–6 GHz / UWB** | poor | 0.24–0.6 rad/mm | No — surface only |
+| **24–77 GHz** | minimal | 1.0–3.2 rad/mm | No — cannot reach cortex |
 
 Read those please
 
