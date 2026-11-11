@@ -17,8 +17,6 @@ If you tinker with some limesdr or whatever sdr tools you can figure it out
 
 If you can jailbreak your phone modem firmware its good too 
 
-
-
 - Two RF carriers hit the head (patent: 100 + 110 MHz) → they mix in tissue into a 10 MHz beat.
 - Brain's electrical activity (0.5–50 Hz) changes tissue dielectric properties → modulates that beat.
 - Brain re-radiates the modulated signal like a passive reflector.
@@ -27,6 +25,37 @@ If you can jailbreak your phone modem firmware its good too
 - AI maps band powers (delta/theta/alpha/beta/gamma) → mental state or thought.
 
 
+
+It is NOT only limited to the 100-110 MHz bands.
+
+──────────────────────┬──────────────────────────────┬───────────────┬────────────────────────────────┐ 
+ │ Freq region          │ Penetration                  │ Phase         │ Full-spectrum verdict          │ 
+ │                      │                              │ sensitivity   │                                │ 
+ ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
+ │ 0.5–100 Hz (ELF,     │ contact/capacitive only      │ n/a           │ Yes — the only proven          │ 
+ │ EEG)                 │                              │               │ full-spectrum reader, but not  │ 
+ │                      │                              │               │ RF                             │ 
+ ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
+ │ 3–300 MHz (HF/VHF)   │ excellent                    │ 0.0042 rad/mm │ No — sensitivity fails, 75 cm  │ 
+ │                      │                              │               │ antenna                        │ 
+ ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
+ │ 300–700 MHz          │ excellent                    │ 0.029 rad/mm  │ Marginal                       │ 
+ ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
+ │ 700–1000 MHz         │ good–excellent (~15 mm skin  │ 0.03–0.05     │ Yes — best balance; first      │ 
+ │ (B12/B20/B5/B8)      │ depth @900 MHz)              │ rad/mm        │ measurement target = Band 5,   │ 
+ │                      │                              │               │ 850 MHz                        │ 
+ ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
+ │ 1–2 GHz (B3/B1)      │ good (~25 mm λ in tissue)    │ 0.05–0.08     │ Yes — strong                   │ 
+ │                      │                              │ rad/mm        │                                │ 
+ ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
+ │ 2–3 GHz (B7/B40 +    │ moderate (~8 mm)             │ 0.10 rad/mm   │ Yes — maximum phone            │ 
+ │ WiFi 2.4)            │                              │               │ sensitivity                    │ 
+ ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
+ │ 4–6 GHz / UWB        │ poor                         │ 0.24–0.6      │ No — surface only              │ 
+ │                      │                              │ rad/mm        │                                │ 
+ ├──────────────────────┼──────────────────────────────┼───────────────┼────────────────────────────────┤ 
+ │ 24–77 GHz            │ minimal                      │ 1.0–3.2       │ No — cannot reach cortex       │ 
+ └──────────────────────┴──────────────────────────────┴───────────────┴────────────────────────────────┘ 
 
 Read those please
 
