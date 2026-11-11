@@ -2,9 +2,11 @@
 
 Did you ever think about something and next second it STARIGHT POPPED UP on your phone?
 
+We will refer to ALL phone brands as mega-corporations.
+
 Currently used by mega-corporations -SUPPOSEDLY-, this system enables getting people's thoughs, brain EEG data, moods, heart rate, breath rate etc. etc. straight from most basic phone radio hardware.
 
-Though not classified publicly, researches show that this system is highly possible and (extremely-possible) currently used. How Google uses this system -as an example- is, as they get the EEG data of your brain through mega-corporation's own apps accessing your wifi and radio etc. etc. (They can do this since this system is highly undetectable and their apps are closed-source), they can know what you think about; For example, you thought about beds, next second you see a bed advertisement on your phone. How strange?. They use it majorly for advertisement purposes.
+Though not classified publicly, researches show that this system is highly possible and (extremely-possible) currently used. How they uses this system -as an example- is, as they get the EEG data of your brain through mega-corporation's own apps accessing your wifi and radio etc. etc. (They can do this since this system is highly undetectable and their apps are closed-source), they can know what you think about; For example, you thought about beds, next second you see a bed advertisement on your phone. How strange?. They use it majorly for advertisement purposes.
 
 Basically explained, since we are electromagnetic beings; we can get biological data straight from magnetic sensors (radio, bluetooth, wifi -all the same anyway-), feed the data to a pre-trained AI model and get outputs.
 
