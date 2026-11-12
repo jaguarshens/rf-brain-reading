@@ -807,11 +807,6 @@ What can be done TODAY on a rooted Android handset:
 - Detect breathing rate, heart rate, head proximity
 - Detect gross brain states (alpha suppression when thinking)
 
-The gap between the patented capability and the demonstrable reality is 
-the already existing training data. If the NSA/DARPA/contractors built this dataset over 
-decades of experimentation, that dataset is what makes the system work — 
-and it's what remains classified.
-
 ================================================================================
 END OF DOCUMENT
 ================================================================================
