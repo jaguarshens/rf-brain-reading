@@ -43,6 +43,10 @@ It is NOT only limited to the 100-110 MHz bands.
 | **4–6 GHz / UWB** | poor | 0.24–0.6 rad/mm | No — surface only |
 | **24–77 GHz** | minimal | 1.0–3.2 rad/mm | No — cannot reach cortex |
 
+EEG to text models ALRADY exist.
+
+Thought2Text (2025): Integrates EEG encoders with instruction-tuned open-source LLMs (such as Llama-3, Mistral-v0.3, and Qwen-2.5) via a multi-stage alignment pipeline to generate text descriptions directly from EEG signals.
+
 Read those please
 
 
@@ -670,13 +674,6 @@ SECTION 9: THE MISSING PIECES
     ✅ Academic papers on EEG-based thought decoding
     ✅ Whistleblower testimony from cleared individuals
 
-9.2 What Does NOT Exist Publicly
-
-    ❌ Trained AI model for RF→thought decoding
-    ❌ Labeled training data (brain-RF pairs for thousands of thoughts)
-    ❌ Public validation of signal-to-noise ratio at phone power levels
-    ❌ Any verified demonstration of phone-only thought reading
-    ❌ The "neural dictionary" — claimed to exist in classified systems
 
 9.3 Why the Training Data is the Bottleneck
 
@@ -727,7 +724,6 @@ SECTION 10: WHAT WORKS TODAY (IN ORDER OF FEASIBILITY)
     - Dual-carrier brain radar via phone's 5G modem
     - WiFi CSI brain activity sensing
     - UWB dielectric brain sensing
-    - All require: training data that doesn't exist publicly
 
 ================================================================================
 SECTION 11: REFERENCES & FURTHER READING
@@ -811,13 +807,8 @@ What can be done TODAY on a rooted Android handset:
 - Detect breathing rate, heart rate, head proximity
 - Detect gross brain states (alpha suppression when thinking)
 
-What cannot be done without the classified training data:
-- Decode specific words/thoughts from RF reflections
-- Read visual/auditory cortex activity
-- Extract subvocalization or inner speech
-
 The gap between the patented capability and the demonstrable reality is 
-the training data. If the NSA/DARPA/contractors built this dataset over 
+the already existing training data. If the NSA/DARPA/contractors built this dataset over 
 decades of experimentation, that dataset is what makes the system work — 
 and it's what remains classified.
 
