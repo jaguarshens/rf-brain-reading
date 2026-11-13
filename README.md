@@ -49,10 +49,10 @@ Thought2Text (2025): Integrates EEG encoders with instruction-tuned open-source 
 
 
 
-**Read those please:
+**Read those please:**
 
-The writings before this text are all written by me. The rest of these are AI.
-I MADE AI SUMMARIZE IT SINCE I COULD NOT WRITE ALL THIS BY HAND IN A SHORT TIME.**
+**The writings before this text are all written by me. The rest of these are AI.**
+**I MADE AI SUMMARIZE IT SINCE I COULD NOT WRITE ALL THIS BY HAND IN A SHORT TIME.**
 
 
 
