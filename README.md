@@ -58,7 +58,7 @@ Thought2Text (2025): Integrates EEG encoders with instruction-tuned open-source 
 
 
 
-====
+
 PHONE-BASED MIND READING: COMPLETE RESEARCH COMPILATION
 ====
 
@@ -68,7 +68,7 @@ Scope: Surface web + Tor network + archive.org + patent databases + academic
 Target Platform: Rooted Android smartphone with a Qualcomm baseband
                  (DIAG-capable modem, WiFi CSI or debugfs access)
 
-====
+
 SECTION 1: THE PATENTS (VERIFIED, FILED, GRANTED)
 ====
 
@@ -164,7 +164,7 @@ SECTION 1: THE PATENTS (VERIFIED, FILED, GRANTED)
 15. US6506148B2 — Nervous system manipulation by EM fields from monitors
     - External EM field applied to body stimulates nervous system.
 
-====
+
 SECTION 2: THE TECHNICAL MECHANISM (HOW IT WORKS)
 ====
 
@@ -283,7 +283,7 @@ SECTION 2: THE TECHNICAL MECHANISM (HOW IT WORKS)
     - US military translated his work: DTIC document AD0422218
     - PROVED the brain radiates detectable EM signals at distance in 1920s
 
-====
+
 SECTION 3: THE PHONE'S ROLE
 ====
 3.1 Why the Phone Matters
@@ -325,7 +325,7 @@ SECTION 3: THE PHONE'S ROLE
     - WiFi 2.4/5 GHz with CSI (Channel State Information)
     - Magnetometer, accelerometer, proximity sensors
 
-====
+
 SECTION 4: SMARTPHONE IMPLEMENTATION GUIDE
 ====
 
@@ -494,7 +494,7 @@ SECTION 4: SMARTPHONE IMPLEMENTATION GUIDE
     
     This is the LEAST invasive method but also the least capable.
 
-====
+
 SECTION 5: THE AI DECODING PIPELINE
 ====
 
@@ -539,7 +539,7 @@ SECTION 5: THE AI DECODING PIPELINE
     These are WELL-ESTABLISHED in neuroscience and don't require per-person 
     training — the frequency band relationships are universal.
 
-====
+
 SECTION 6: KEY RESEARCH PAPERS & DOCUMENTS
 ====
 
@@ -598,7 +598,7 @@ SECTION 6: KEY RESEARCH PAPERS & DOCUMENTS
       conference)
     - ELVIS BCI (elvis-tech.ru): Russian brain-computer interface system
 
-====
+
 SECTION 7: SILENT SOUND / V2K CIRCUIT SCHEMATICS (PUBLIC)
 ====
 
@@ -638,7 +638,7 @@ SECTION 7: SILENT SOUND / V2K CIRCUIT SCHEMATICS (PUBLIC)
     "The system was used through Operation Desert Storm (Iraq) quite 
     successfully."
 
-====
+
 SECTION 8: THE FREQUENCY BANDS
 ====
 
@@ -667,7 +667,7 @@ SECTION 8: THE FREQUENCY BANDS
     - 5G mmWave: 24-39 GHz
     - Silent sound: 14.5-14.8 kHz (audio, not RF)
 
-====S
+
 ECTION 9: THE MISSING PIECES
 ====
 
@@ -700,7 +700,7 @@ ECTION 9: THE MISSING PIECES
     
     NOT specific words, images, or thoughts.
 
-====
+
 SECTION 10: WHAT WORKS TODAY (IN ORDER OF FEASIBILITY)
 ====
 
@@ -732,7 +732,7 @@ SECTION 10: WHAT WORKS TODAY (IN ORDER OF FEASIBILITY)
     - WiFi CSI brain activity sensing
     - UWB dielectric brain sensing
 
-====
+
 SECTION 11: REFERENCES & FURTHER READING
 ====
 
@@ -793,7 +793,7 @@ SECTION 11: REFERENCES & FURTHER READING
     - Mary Lou Jepsen: Openwater, infrared brain reading
     - Edward Tilton: Silent Sounds Inc. President
 
-====
+
 SECTION 12: CONCLUSION
 ====
 
@@ -814,7 +814,7 @@ What can be done TODAY on a rooted Android handset:
 - Detect breathing rate, heart rate, head proximity
 - Detect gross brain states (alpha suppression when thinking)
 
-====
+
 END OF DOCUMENT
 ====
 
