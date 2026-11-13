@@ -47,10 +47,13 @@ EEG to text models ALRADY exist.
 
 Thought2Text (2025): Integrates EEG encoders with instruction-tuned open-source LLMs (such as Llama-3, Mistral-v0.3, and Qwen-2.5) via a multi-stage alignment pipeline to generate text descriptions directly from EEG signals.
 
-Read those please:
+
+
+**Read those please:
 
 The writings before this text are all written by me. The rest of these are AI.
-I MADE AI SUMMARIZE IT SINCE I COULD NOT WRITE ALL THIS BY HAND IN A SHORT TIME.
+I MADE AI SUMMARIZE IT SINCE I COULD NOT WRITE ALL THIS BY HAND IN A SHORT TIME.**
+
 
 
 ================================================================================
