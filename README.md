@@ -806,8 +806,3 @@ What can be done TODAY on a rooted Android handset:
 - Detect breathing rate, heart rate, head proximity
 - Detect gross brain states (alpha suppression when thinking)
 
-
-END OF DOCUMENT
-====
-
-
