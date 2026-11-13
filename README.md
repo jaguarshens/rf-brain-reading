@@ -1,6 +1,6 @@
 # rf-brain-reading
 
-Before you continue reading, mind that all of those text are written by me manually until the obvious document seperation symbols. After that, AI summarized it since I could not write that much information in a short time. You can see errors in syntax or logical errors are possible too. Thank you.
+**Before you continue reading, mind that all of those text are written by me manually until the obvious document** **seperation symbols. After that, AI summarized it since I could not write that much information in a short time.** **You can see errors in syntax or logical errors are possible too. Thank you.**
 
 Did you ever think about something and next second it STARIGHT POPPED UP on your phone?
 
