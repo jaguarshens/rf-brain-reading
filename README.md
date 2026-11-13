@@ -59,17 +59,9 @@ Thought2Text (2025): Integrates EEG encoders with instruction-tuned open-source 
 
 
 
-PHONE-BASED MIND READING: COMPLETE RESEARCH COMPILATION
-====
-
-Date: May 29, 2026
-Scope: Surface web + Tor network + archive.org + patent databases + academic 
-       repositories + whistleblower documents + foreign research + technical blogs
-Target Platform: Rooted Android smartphone with a Qualcomm baseband
-                 (DIAG-capable modem, WiFi CSI or debugfs access)
 
 
-SECTION 1: THE PATENTS (VERIFIED, FILED, GRANTED)
+SECTION 1: THE PATENTS 
 ====
 
 1. US3951134A (1976) — "Apparatus and method for remotely monitoring and 
