@@ -21,7 +21,8 @@ Very simple actually.
 So basically, anyone can spy on people through their phone getting their most private thoughts with a simple software on their phone. AND YOU CANT REMOVE ANY OF THIS!
 
 
-If you tinker with some limesdr or whatever sdr tools you can figure it out
+**Dual-channel Full-Duplex SDR tools such as LimeSDR X4, ADALM PLUTO+, Ettus USRP B210, Nuand bladeRF 2.0 micro, have the FULL capability for this.**
+**Also, I am working of a software where we can turn our phones into full capability SDR's, if you are into it straight contact me DO NOT hesitate!**
 
 If you can jailbreak your phone modem firmware its good too 
 
